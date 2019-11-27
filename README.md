@@ -1,4 +1,4 @@
-# AI Enabled Mapping Application
+# EuroSAT Training Sample Application
 
 .NET Core Console App that classifies aerial / satellite images between 1 of 10 classes using ML.NET Image Classification API / Model Builder. Both API and Model Builder use ResNet50.
 
